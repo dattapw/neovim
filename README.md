@@ -1,0 +1,1 @@
+My personal neovim config as I start learning neovim. The base I've used is kickstart. I'm using the Nordic colorscheme. I've added the Neotree plugin for a file explorer and the bufferline plugin for tabs.
