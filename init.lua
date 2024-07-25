@@ -933,3 +933,5 @@ require("lazy").setup({
 -- vim: ts=2 sts=2 sw=2 et
 --
 vim.keymap.set("n", "<C-e>", ":Neotree toggle<CR>", { noremap = true, silent = true })
+vim.keymap.set("n", "<leader>b", ":Telescope buffers<CR>", { noremap = true, silent = true })
+vim.keymap.set("n", "<Tab>", ":bnext<CR>", { noremap = true, silent = true })
